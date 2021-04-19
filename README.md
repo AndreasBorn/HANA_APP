@@ -1,3 +1,4 @@
 # HANA_APP
 Test in Readme.md
-Replezierung
+PULL Replezierung
+Push into GIT
